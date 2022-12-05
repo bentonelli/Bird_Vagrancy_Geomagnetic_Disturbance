@@ -1,0 +1,157 @@
+Species Name,Breeding Lat,Migration Length,Taxonomy,Scientific Name,theta_2_5,theta_50,theta_97_5,Sig +,Sig -,Diurnal Migrant,Notes
+Snow Bunting,67.320183,2232.5249,Calcariidae,Plectrophenax nivalis,-0.744895087,-0.647368073,-0.547344408,0,1,B,
+Dickcissel,39.218224,4313.0362,Cardinalidae,Spiza americana,-0.075489284,0.06196396,0.201552261,0,0,B,"""Most migratory movements are nocturnal, but large flocks of fall and spring migrants are seen moving and foraging during the day in North America and Central America"""
+Baltimore Oriole,43.12987162,3245.800905,Icteridae,Icterus galbula,-0.087001051,0.011894686,0.108089019,0,0,B,
+Clay-colored Sparrow,50.50372,3013.66898,Passerellidae,Spizella pallida Scientific name definitions,-0.279467618,-0.210028082,-0.141361344,0,1,B,
+Swamp Sparrow,49.54157,1709.71018,Passerellidae,Melospiza georgiana,0.007521852,0.04099906,0.075398929,1,0,B,
+Red-headed Woodpecker,38.58253,596.4423,Picidae,Melanerpes erythrocephalus,-0.157936031,-0.035445346,0.086614972,0,0,B,"""mainly diurnal migration in fall and nocturnal migration in spring"""
+Western Bluebird,37.979335,377.0146,Turdidae,Sialia mexicana,-0.190716868,-0.043403439,0.106064684,0,0,B,"""Diurnal migrant throughout much of range; nocturnal in Farallon Is., CA """
+Eastern Wood-Pewee,40.46991,5130.989,Tyrannidae,Contopus virens,-0.096188874,-0.067973584,-0.039878398,0,1,B,
+Band-tailed Pigeon,20.736099,734.817,Columbidae,Patagioenas fasciata,0.27936072,0.356218624,0.433287249,1,0,D,
+Blue Jay,40.77115,85.19777,Corvidae,Cyanocitta cristata,0.017821462,0.040745363,0.064166441,1,0,D,
+Brown-capped Rosy-Finch,39.02108,66.59543,Fringillidae,Leucosticte australis,-0.595753197,-0.379630333,-0.166802828,0,1,D,
+Common Redpoll,63.9197,1789.2368,Fringillidae,Carduelis flammea,0.116024342,0.171133601,0.228224777,1,0,D,
+Gray-crowned Rosy-Finch,52.54879,2026.97851,Fringillidae,Leucosticte tephrocotis,-0.243220834,-0.08452788,0.076346398,0,0,D,"""Presumably rosy-finch migration is diel (daytime) and not initiated by nocturnal migratory restlessness"""
+Pine Grosbeak,53.74717,479.94569,Fringillidae,Pinicola enucleator,-0.149764022,-0.037429884,0.079393019,0,0,D,"""apparently a diurnal migrant"""
+White-winged Crossbill,57.763275,551.449682,Fringillidae,Loxia leucoptera,-0.03492972,0.079327994,0.196984709,0,0,D,
+Cassin's Finch,43.49176,584.96503,Fringillidae,Carpodacus cassinii,0.003717094,0.131281823,0.251831422,1,0,D,
+Lawrence's Goldfinch,35.8496,189.9996,Fringillidae,Carduelis lawrencei,0.163804908,0.293133411,0.418012078,1,0,D,
+Lesser Goldfinch,29.0977,155.43779,Fringillidae,Carduelis psaltria,0.01349441,0.06718178,0.12019462,1,0,D,
+Purple Finch,47.47588,560.41272,Fringillidae,Carpodacus purpureus,-0.03632064,-0.01023483,0.014774486,0,0,D,
+Purple Martin,35.3205,5800,Hirundinidae,Progne subis,0.088129879,0.126198291,0.164591061,1,0,D,
+Cave Swallow,26.6854,961.732739,Hirundinidae,Petrochelidon fulva,-0.092203343,-0.055941782,-0.019939517,0,1,D,
+Violet-green Swallow,42.00124664,2800.129257,Hirundinidae,Tachycineta thalassina,-0.129239246,0.001546015,0.134118407,0,0,D,
+Brewer's Blackbird,45.88617217,1206.682792,Icteridae,Euphagus cyanocephalus,-0.094511611,0.010497353,0.119082519,0,0,D,
+Common Grackle,41.6414549,714.0284743,Icteridae,Quiscalus quiscula,0.080770692,0.119459834,0.158487424,1,0,D,
+Eastern Meadowlark,34.72376,289.8982,Icteridae,Sturnella magna,0.126614982,0.216490868,0.302874849,1,0,D,
+Rusty Blackbird,61.21056,3921.1612,Icteridae,Euphagus carolinus,-0.079376909,0.041882731,0.159828462,0,0,D,"""Apparently migrates diurnally"""
+Western Meadowlark,44.22037,949.30475,Icteridae,Sturnella neglecta,-0.191006428,-0.06434653,0.058017113,0,0,D,
+Yellow-headed Blackbird,46.80062,2518.55402,Icteridae,Xanthocephalus xanthocephalus,0.09883739,0.139062888,0.180143717,1,0,D,
+Northern Shrike,64.67389,3857.80916,Laniidae,Lanius borealis,-0.30384984,-0.164472898,-0.022729632,0,1,D,"""Apparently diurnal in the Neartic"""
+Lark Bunting,42.99569,1315.099,Passerellidae,Calamospiza melanocorys,-0.316977711,-0.163422522,-0.014802152,0,1,D,
+Ruby-throated Hummingbird,39.83159,2696.54425,Trochilidae,Archilochus colubris,-0.086759816,-0.060176074,-0.033476757,0,1,D,
+Allen's Hummingbird,36.63734,390.6184,Trochilidae,Selasphorus sasin,-0.344145656,-0.218439376,-0.094530062,0,1,D,
+Anna's Hummingbird,36.83189,55.19181,Trochilidae,Calypte anna,-0.032535963,0.004055696,0.042531025,0,0,D,
+Black-chinned Hummingbird,32.95097,1421.76335,Trochilidae,Archilochus alexandri,-0.044865571,-0.001845059,0.041876154,0,0,D,
+Broad-tailed Hummingbird,38.32612,2187.70942,Trochilidae,Selasphorus platycercus,-0.111328796,-0.060851007,-0.008711139,0,1,D,
+Calliope Hummingbird,39.66144,4009.793,Trochilidae,Stellula calliope,-0.236828466,-0.180491411,-0.122227917,0,1,D,
+Costa's Hummingbird,32.29649,403.1345,Trochilidae,Calypte costae,-0.250271794,-0.16510842,-0.07800769,0,1,D,
+Lucifer Hummingbird,28.67576,1112.683,Trochilidae,Calothorax lucifer,0.196662641,0.431701331,0.671434648,1,0,D,
+Rufous Hummingbird,50.6028,3774.76329,Trochilidae,Selasphorus rufus,-0.091655601,-0.048895958,-0.003004684,0,1,D,
+Eastern Bluebird,37.05424,144.97815,Turdidae,Sialia sialis,-0.145412757,-0.082145266,-0.020207912,0,1,D,
+Eastern Phoebe,40.73082,1044.47,Tyrannidae,Sayornis phoebe,0.051812897,0.081893682,0.112373001,1,0,D,
+Gray Kingbird,20.20254,839.221,Tyrannidae,Tyrannus dominicensis,-0.156505534,0.038336973,0.233413416,0,0,D,"""Probably a diurnal migrant"""
+Say's Phoebe,39.307155,977.6559,Tyrannidae,Sayornis saya,-0.171654026,-0.012233913,0.144997823,0,0,D,"""Diurnal migration probable as there are no reports of nocturnal movement"""
+Western Kingbird,38.808811,3127.6183,Tyrannidae,Tyrannus verticalis,0.059166731,0.209148983,0.359487794,1,0,D,
+Indigo Bunting,37.54175,2195.14958,Cardinalidae,Passerina cyanea,-0.16447973,-0.125767659,-0.087742968,0,1,N,
+Lazuli Bunting,43.13688,2131.8084,Cardinalidae,Passerina amoena,0.017839989,0.068968325,0.122910796,1,0,N,
+Painted Bunting,31.49744,1482.60543,Cardinalidae,Passerina ciris,-0.040494181,0.006302774,0.053665857,0,0,N,
+Rose-breasted Grosbeak,45.03529,3354.79563,Cardinalidae,Pheucticus ludovicianus,-0.255053049,-0.208895144,-0.163019814,0,1,N,"""Mainly nocturnal"""
+Scarlet Tanager,41.21047,5332.57643,Cardinalidae,Piranga olivacea,-0.295222459,-0.248539977,-0.20082738,0,1,N,"""Generally mmigrates at night"""
+Summer Tanager,33.62567,2538.86237,Cardinalidae,Piranga rubra,-0.132830893,-0.037636823,0.056737602,0,0,N,"""Generally nocturnal; departs usually at night, although a few may continue migration during day"""
+Western Tanager,46.16615,3379.50369,Cardinalidae,Piranga ludoviciana,-0.036207009,-0.001864937,0.033207235,0,0,N,
+Black-billed Cuckoo,45.2823,2133.1173,Cuculidae,Coccyzus erythropthalmus,-0.151348375,-0.062479106,0.025320426,0,0,N,
+Bullock's Oriole,38.65455642,2214.792219,Icteridae,Icterus bullockii,-0.27398884,-0.119231561,0.037524793,0,0,N,"""Generally nocturnal; departs at night, but may continue after dawn"""
+Hooded Oriole,27.0159,777.2154,Icteridae,Icterus cucullatus,-0.095614402,0.038753248,0.173386373,0,0,N,
+Orchard Oriole,38.7403,2436.684,Icteridae,Icterus spurius,-0.160565352,-0.04718445,0.071209046,0,0,N,
+Yellow-breasted Chat,35.10489,1930.541,Icteridae,Icteria virens,-0.129352587,-0.035811827,0.059765299,0,0,N,
+Brown Thrasher,40.41567,847.33003,Mimidae,Toxostoma rufum,-0.100787516,-0.059043558,-0.015041746,0,1,N,
+Blackpoll Warbler,57.38723,6768.269,Parulidae,Dendroica striata,-0.229542599,-0.173635925,-0.117202793,0,1,N,
+Prairie Warbler,37.26487,1710.5825,Parulidae,Dendroica discolor,-0.060344222,0.001216853,0.06061356,0,0,N,
+Blackburnian Warbler,46.28336,4727.93,Parulidae,Dendroica fusca,-0.136474544,-0.091323607,-0.046441967,0,1,N,"""Generally a nocturnal migrant, but occasionally some daytime movement"""
+Magnolia Warbler,49.48191,3729.4673,Parulidae,Dendroica magnolia,-0.110999033,-0.078644366,-0.045868014,0,1,N,"""Generally nocturnal, but also undertake ""redetermination"" flights in which they attempt to correcet for displacement during night flight"""
+Bay-breasted Warbler,49.05463,4686.09049,Parulidae,Dendroica castanea,-0.056455371,-0.011371763,0.034799771,0,0,N,
+Black-and-white Warbler,46.60122,3120.673,Parulidae,Mniotilta varia,-0.017953606,0.013291413,0.04334038,0,0,N,
+Black-throated Blue Warbler,44.72488,2754.735,Parulidae,Dendroica caerulescens,-0.078851485,-0.032517458,0.011927219,0,0,N,Tower kills
+Black-throated Gray Warbler,41.42159,2320.828,Parulidae,Setophaga nigrescens,0.131092907,0.219960308,0.305450245,1,0,N,
+Black-throated Green Warbler,45.58933,3481.505,Parulidae,Dendroica virens,-0.06969571,-0.032156233,0.006635964,0,0,N,"""Nocturnal migrant, only likely to be seen migrating during day over water"""
+Blue-winged Warbler,41.95261,2907.299,Parulidae,Vermivora pinus,-0.112354495,-0.051552647,0.007467854,0,0,N,
+Canada Warbler,47.00755,4980.775,Parulidae,Wilsonia canadensis,-0.086131974,-0.043729599,-0.001680561,0,1,N,
+Cape May Warbler,49.32361,3277.341,Parulidae,Dendroica tigrina,-0.176863632,-0.13896919,-0.099754954,0,1,N,
+Cerulean Warbler,39.64343,4008.195,Parulidae,Dendroica cerulea,-0.183164098,-0.002769147,0.180947703,0,0,N,
+Chestnut-sided Warbler,46.37756,3761.949,Parulidae,Dendroica pensylvanica,-0.004328905,0.040064616,0.083202465,0,0,N,"""Nocturnal migrant; flight generally finished before dawn, although in trans-Gulf migration may continue in daylight"""
+Connecticut Warbler,53.55428,3555.079,Parulidae,Oporornis agilis,-0.311500707,-0.213567513,-0.116048472,0,1,N,
+Golden-winged Warbler,46.10937,3693.627,Parulidae,Vermivora chrysoptera,-0.096719762,0.00747028,0.111847686,0,0,N,Tower kills
+Hooded Warbler,36.53581,2193.372,Parulidae,Wilsonia citrina,-0.387534131,-0.332798747,-0.279759877,0,1,N,
+Kentucky Warbler,36.05926,2246.883,Parulidae,Oporornis formosus,-0.134643663,0.017811078,0.173077627,0,0,N,
+Louisiana Waterthrush,38.36403,2332.001,Parulidae,Seiurus motacilla,-0.268404517,-0.182046065,-0.089486159,0,1,N,
+Northern Parula,40.78602,2257.1407,Parulidae,Parula americana,-0.065559802,-0.021976792,0.020067391,0,0,N,
+Ovenbird,46.95306,3112.7789,Parulidae,Seiurus aurocapilla,-0.115876629,-0.074507774,-0.03184234,0,1,N,
+Pine Warbler,37.69511,726.8769,Parulidae,Dendroica pinus,-0.005377169,0.058085337,0.123137175,0,0,N,
+Prothonotary Warbler,34.7433,3044.6636,Parulidae,Protonotaria citrea,-0.030342154,0.061340771,0.155082177,0,0,N,"""Primarily nocturnal migrant; diurnal observations mostly over water close to landfall"""
+Tennessee Warbler,56.36221,4988.5763,Parulidae,Vermivora peregrina,-0.162635741,-0.125839572,-0.089180747,0,1,N,
+Worm-eating Warbler,38.20416,2480.45743,Parulidae,Helmitheros vermivorum,-0.088067889,-0.005728617,0.07819784,0,0,N,
+Yellow-throated Warbler,36.0779,1447.31864,Parulidae,Dendroica dominica,-0.177105245,-0.03903711,0.101939855,0,0,N,"""Generally nocturnal."""
+Hermit Warbler,42.40681,3463.453,Parulidae,Dendroica occidentalis,0.154696572,0.233647934,0.305363762,1,0,N,
+MacGillivray's Warbler,46.37581,3240.507,Parulidae,Oporornis tolmiei,0.062485471,0.103024113,0.143988801,1,0,N,
+Mourning Warbler,48.72016,4725.2186,Parulidae,Oporornis philadelphia,0.023520655,0.135090964,0.253425273,1,0,N,
+Townsend's Warbler,50.35711,3807.0472,Parulidae,Dendroica townsendi,0.021063721,0.076235647,0.13252475,1,0,N,
+Virginia's Warbler,37.69206,2227.982,Parulidae,Vermivora virginiae,-0.040635239,0.079503278,0.198984252,0,0,N,"""Little known, and almost nothing documented; assumed to migrate mostly at night."""
+Eastern Towhee,37.55913,358.21546,Passerellidae,Pipilo erythrophthalmus,-0.034537482,0.008638327,0.050077225,0,0,N,"""Migrates nocturnally. In Connecticut, observed performing postdawn diurnal flights landward from over Long Island Sound, perhaps correcting for overnight wind drift"""
+Brewer's Sparrow,42.50916,1313.13707,Passerellidae,Spizella breweri,-0.166126804,-0.127758939,-0.089096733,0,1,N,
+Field Sparrow,39.72664,518.34324,Passerellidae,Spizella pusilla,0.009469611,0.037379033,0.064850778,1,0,N,
+Golden-crowned Sparrow,61.45581,3030.1051,Passerellidae,Zonotrichia atricapilla,0.014156088,0.060240337,0.107844307,1,0,N,
+Green-tailed Towhee,40.69832,1298.0753,Passerellidae,Pipilo chlorurus,-0.201601835,-0.134654276,-0.067682753,0,1,N,"""researchers now consider it a nocturnal migrant"""
+Harris's Sparrow,60.216,2646.931,Passerellidae,Zonotrichia querula,-0.039005136,0.025649373,0.089011887,0,0,N,"""Mainly migrate at night"""
+LeConte's Sparrow,53.4848,2461.6354,Passerellidae,Ammospiza leconteii,-0.225817069,-0.070922577,0.08695139,0,0,N,
+Saltmarsh Sparrow,40.87835,999.5064,Passerellidae,Ammodramus caudacutus,-0.241359151,-0.069364132,0.107307264,0,0,N,
+Seaside Sparrow,35.82377,894.1429,Passerellidae,Ammodramus maritimus,-0.371373712,-0.262622992,-0.156469578,0,1,N,
+Nelson's Sparrow,50.45447,2308.8434,Passerellidae,Ammodramus nelsoni,-0.18332047,0.023290864,0.225313168,0,0,N,"""Thought to migrate only at night."" - but no evidence??"
+Yellow-bellied Sapsucker,48.96902,1746.8094,Picidae,Sphyrapicus varius,-0.067327307,0.020546128,0.115618341,0,0,N,
+Rock Wren,40.01354,786.61447,Troglodytidae,Salpinctes obsoletus,-0.004470554,0.139005989,0.279406772,0,0,N,
+Sedge Wren,43.66051,5571.91144,Troglodytidae,Cistothorus platensis,-0.174940911,-0.031758288,0.114120126,0,0,N,
+Winter Wren,48.74063,1450.3586,Troglodytidae,Troglodytes troglodytes,-0.178469724,-0.086909387,0.003983097,0,0,N,
+Gray-cheeked Thrush,63.68302,8579.82008,Turdidae,Catharus minimus,-0.396875671,-0.312099316,-0.225335993,0,1,N,
+Wood Thrush,39.687488,2690.8777,Turdidae,Hylocichla mustelina,-0.213552901,-0.159510393,-0.105176899,0,1,N,"""Migrates at night except at end of trans-gulf flight"""
+Alder Flycatcher,54.13249,7628.5507,Tyrannidae,Empidonax alnorum,-0.41019488,-0.207591359,-0.001032294,0,1,N,
+Ash-throated Flycatcher,33.076574,982.3968,Tyrannidae,Myiarchus cinerascens,-0.043259553,0.090632838,0.231647011,0,0,N,"""May be at least a partial nocturnal migrant"""
+Dusky Flycatcher,44.29006,2775.815,Tyrannidae,Empidonax oberholseri,-0.102504815,-0.041901414,0.017804194,0,0,N,"""Generally nocturnal."""
+Gray Flycatcher,40.44382,1657.211,Tyrannidae,Empidonax wrightii,-0.358442667,-0.238007018,-0.115041916,0,1,N,
+Great Crested Flycatcher,38.76587,2745.153,Tyrannidae,Myiarchus crinitus,-0.075842098,0.003671554,0.081920263,0,0,N,"""at least partial nocturnal migration"""
+Hammond's Flycatcher,49.94935,3613.948,Tyrannidae,Empidonax hammondii,-0.107796379,-0.031262506,0.043478241,0,0,N,"""Generally nocturnal."""
+Yellow-bellied Flycatcher,50.214632,4291.5295,Tyrannidae,Empidonax flaviventris,0.043775548,0.108138716,0.172574595,1,0,N,
+Red-eyed Vireo,46.20355,5157.7607,Vireonidae,Vireo olivaceus,-0.091299063,-0.057344194,-0.024657517,0,1,N,"""low-altitude flights occur during daylight"""
+Yellow-throated Vireo,39.4138,2775.1458,Vireonidae,Vireo flavifrons,-0.282712998,-0.157609534,-0.029852462,0,1,N,"""some migration during daylight hours, such as when crossing Gulfƒ"""
+Bell's Vireo,33.797137,1202.0871,Vireonidae,Vireo bellii,-0.297832311,-0.16512637,-0.032162402,0,1,N,"""Chiefly nocturnal"""
+Blue-headed Vireo,46.102027,2166.187,Vireonidae,Vireo solitarius,0.213877276,0.268225734,0.322692825,1,0,N,
+Gray Vireo,35.664037,939.7356,Vireonidae,Vireo vicinior,-0.198994005,0.053122955,0.304917622,0,0,N,"""Presumably nocturnal"""
+Philadelphia Vireo,50.27887,4230.6735,Vireonidae,Vireo philadelphicus,-0.334531859,-0.287961241,-0.24188299,0,1,N,
+White-eyed Vireo,33.14367,940.0892,Vireonidae,Vireo griseus,-0.019281593,0.026919446,0.072387144,0,0,N,"""Probably nocturnal"""
+Bohemian Waxwing,63.144439,2644.699,Bombycillidae,Bombycilla garrulus,0.0309646,0.290435192,0.560489599,1,0,U,
+Chestnut-collared Longspur,47.713023,1638.1783,Calcariidae,Calcarius ornatus,-0.203693448,-0.046195205,0.119587387,0,0,U,
+McCown's Longspur,45.889787,1266.1432,Calcariidae,Calcarius mccownii,-0.696195089,-0.446920086,-0.210023998,0,1,U,
+Black-headed Grosbeak,39.349922,2286.7781,Cardinalidae,Pheucticus melanocephalus,-0.188174817,-0.152761893,-0.116963709,0,1,U,
+Blue Grosbeak,32.717193,1434.28993,Cardinalidae,Passerina caerulea,0.028705528,0.091371832,0.153490473,1,0,U,
+Varied Bunting,25.34477,516.05375,Cardinalidae,Passerina versicolor,0.380784449,0.515184622,0.651671351,1,0,U,
+White-winged Dove,26.936614,272.1441,Columbidae,Zenaida asiatica,-0.060285978,0.02591341,0.112117639,0,0,U,
+Scott's Oriole,30.09072,970.406,Icteridae,Icterus parisorum,-0.167982925,-0.019725862,0.131447129,0,0,U,
+Loggerhead Shrike,35.52939,630.45854,Laniidae,Lanius ludovicianus,0.070765554,0.137754427,0.20838226,1,0,U,
+Northern Mockingbird,31.78082,256.40991,Mimidae,Mimus polyglottos,0.030356251,0.055987578,0.080999521,1,0,U,
+Sage Thrasher,41.82249,1032.09258,Mimidae,Oreoscoptes montanus,-0.258524474,-0.147316374,-0.033855908,0,1,U,
+Black-throated Sparrow,32.76922,357.33758,Passerellidae,Amphispiza bilineata,-0.018695534,0.080004985,0.178200119,0,0,U,
+Lark Sparrow,38.62461,1417.4037,Passerellidae,Chondestes grammacus,-0.158191164,-0.092039435,-0.027795943,0,1,U,
+Spotted Towhee,39.93526,544.23266,Passerellidae,Pipilo maculatus,-8.54E-04,0.025299453,0.050854994,0,0,U,
+Red-breasted Sapsucker,47.43549,748.5434,Picidae,Sphyrapicus ruber,-0.097523437,0.001054788,0.098155941,0,0,U,
+Red-naped Sapsucker,45.28401,1445.083,Picidae,Sphyrapicus nuchalis,-0.061698676,0.102583679,0.26858179,0,0,U,
+Williamson's Sapsucker,42.6553,865.5168,Picidae,Sphyrapicus thyroideus,-0.210153052,-0.005537064,0.205455788,0,0,U,
+Bewick's Wren,31.72568,29.38538,Troglodytidae,Thryomanes bewickii,-0.081954425,-0.002486487,0.081405875,0,0,U,
+Pacific Wren,49.99877,400.47368,Troglodytidae,Troglodytes pacificus,0.446529155,0.58591777,0.729544113,1,0,U,
+Mountain Bluebird,43.92499,942.05448,Turdidae,Sialia currucoides,-0.074808159,0.092082217,0.258832237,0,0,U,
+Townsend's Solitaire,47.758999,1000.5471,Turdidae,Myadestes townsendi,-0.232515128,-0.115962756,-0.001651939,0,1,U,
+Varied Thrush,55.931185,1326.5394,Turdidae,Zoothera naevia,-0.313332527,-0.221640477,-0.125637117,0,1,U,
+Acadian Flycatcher,36.850398,3606.3844,Tyrannidae,Empidonax virescens,-0.239599322,-0.106754549,0.022297436,0,0,U,
+Black Phoebe,24.370305,279.7955,Tyrannidae,Sayornis nigricans,-0.120646453,-0.001778996,0.11665305,0,0,U,
+Brown-crested Flycatcher,31,1930,Tyrannidae,Myiarchus tyrannulus,-0.444949618,-0.31936216,-0.190562038,0,1,U,
+Cordilleran Flycatcher,32.99523,1558.533,Tyrannidae,Empidonax occidentalis,-0.101226293,0.110292372,0.320002005,0,0,U,
+Olive-sided Flycatcher,51.8928,6916.449,Tyrannidae,Contopus cooperi,-0.018475137,0.092466462,0.205965466,0,0,U,
+Pacific-slope Flycatcher,47.13747,3210.256,Tyrannidae,Empidonax difficilis,-0.201645375,-0.15941169,-0.116422256,0,1,U,
+Scissor-tailed Flycatcher,32.166429,2303.0349,Tyrannidae,Tyrannus forficatus,-0.32099298,-0.138840266,0.038166868,0,0,U,"""extent to which migration occurs diurnally or nocturnally remains unclear"""
+Western Wood-Pewee,43.933559,6383.0779,Tyrannidae,Contopus sordidulus,-0.09419075,-0.011003219,0.072439548,0,0,U,
+Cassin's Vireo,45.64791,3070.5802,Vireonidae,Vireo cassinii,-0.143713341,-0.058208881,0.028170488,0,0,U,
+Plumbeous Vireo,36.67329,1665.3046,Vireonidae,Vireo plumbeus,-0.30905514,-0.063884847,0.178024764,0,0,U,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,0.02693385,
